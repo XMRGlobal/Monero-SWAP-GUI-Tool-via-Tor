@@ -28,7 +28,7 @@ sudo apt install python3-pyqt6
 ### **2. Run the Tool**
 After installing dependencies, launch the GUI:
 ```bash
-python swap.py
+python3 swap.py
 ```
 
 ## Usage
